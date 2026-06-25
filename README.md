@@ -21,6 +21,16 @@ Mesurer la température et l’humidité près de ma fourmilière.
 - Wi-Fi
 - PCB personnalisé
 - Boîtier
+
+## Compétences visées
+- Développement embarqué en C/C++
+- Communication I²C
+- Lecture de datasheets
+- Acquisition de données
+- Électronique de base
+- Conception de schémas électroniques
+- Conception de PCB avec KiCad
+- Documentation technique
 <br/>
 <br/>
 
