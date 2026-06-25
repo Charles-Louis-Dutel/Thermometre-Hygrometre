@@ -56,4 +56,5 @@ Mesurer la température et l’humidité près de ma fourmilière.
   - V1: breadboard/proto
   - V2: schéma + PCB
 
-
+  ## Architecture V1
+  ![Architecture du système](architecture_v1.png)
